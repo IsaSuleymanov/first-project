@@ -1,3 +1,17 @@
-div {
+.flex-row {
 	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+}
+.card {
+	border: 2px solid red;
+	background-color: black;
+}
+.card_width_l {
+	width: 300px;
+}
+.card_height_l {
+	height: 300px;
 }
